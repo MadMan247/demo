@@ -1,0 +1,3 @@
+git - base command
+
+git commit -m "message" commits the git
