@@ -2,6 +2,11 @@ git - base command
 
 git commit -m "message" - commits the git
 
-git add [filename] - adds the file to the git
+git add [filename] - adds the file to the git. use 'git add .' to add all files
 
-git checkout [string] - goes to a point in the git's timeline
+git checkout [commit code] - goes to a point in the git's timeline
+
+git branch [name] - creates a alternative branch
+
+git checkout [branchname] - switches to a alternative branch
+
