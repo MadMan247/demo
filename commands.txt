@@ -10,3 +10,4 @@ git branch [name] - creates a alternative branch
 
 git checkout [branchname] - switches to a alternative branch
 
+git merge [branchname] - commits branchname to main branch
