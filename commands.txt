@@ -1,3 +1,7 @@
 git - base command
 
-git commit -m "message" commits the git
+git commit -m "message" - commits the git
+
+git add [filename] - adds the file to the git
+
+git checkout [string] - goes to a point in the git's timeline
